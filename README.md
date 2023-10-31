@@ -1,10 +1,12 @@
 Este código é projetado para ler informações de candidatos de um arquivo CSV chamado 'candidatos.csv', permitir que o usuário especifique notas mínimas para quatro áreas (E, T, P e S) e, em seguida, filtrar os candidatos com notas iguais ou superiores a essas notas mínimas. Se houver candidatos que atendam aos critérios, as informações deles serão salvas em um novo arquivo CSV chamado 'candidatos_filtrados.csv'.
 
 Pré-requisitos
+
 Antes de executar o código, certifique-se de que você tenha o seguinte instalado:
 
 Python: Certifique-se de que você tenha uma versão do Python instalada em seu sistema.
 Biblioteca pandas: Você pode instalá-la usando o comando pip install pandas.
+
 Como usar
 Coloque seu arquivo CSV de candidatos com os dados na mesma pasta que este código ou forneça o caminho correto para o arquivo no código.
 
